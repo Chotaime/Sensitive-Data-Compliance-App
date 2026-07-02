@@ -1,0 +1,5 @@
+.env
+vector_db/
+__pycache__/
+*.pyc
+audit_log.csv

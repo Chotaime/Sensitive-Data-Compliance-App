@@ -1,0 +1,11 @@
+John Doe
+
+Email : john@gmail.com
+
+Phone : 9876543210
+
+PAN : ABCDE1234F
+
+Aadhaar : 1234 5678 9123
+
+Salary : 60000

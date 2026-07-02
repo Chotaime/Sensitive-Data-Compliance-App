@@ -1,0 +1,6 @@
+Timestamp,Action,File,Details
+2026-07-02 19:18:21,Upload,sample.txt,Document uploaded
+2026-07-02 19:18:21,Sensitive Detection,sample.txt,4 sensitive items detected
+2026-07-02 19:18:21,Risk Analysis,sample.txt,🟡 Medium Risk
+2026-07-02 19:18:31,Compliance Report,sample.txt,Generated successfully
+2026-07-02 19:21:56,RAG Query,sample.txt,What is the mobile number?
